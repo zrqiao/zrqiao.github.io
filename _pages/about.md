@@ -13,7 +13,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I'm Zhuoran Qiao, a Ph.D. student at <a href="https://millergroup.caltech.edu/Miller_Group/Home.html">Miller Group</a>, Caltech. I work on developing physics-based machine learning methods, especially deep geometric learning approaches for molecular electronic structure and chemical dynamics.
+I am a Ph.D. student at <a href="https://millergroup.caltech.edu/Miller_Group/Home.html">Miller Group</a>, Caltech. I work on developing physics-based geometric learning approaches to tackle complex problems in chemistry and biology, especially for molecular electronic structure and dynamics.
 
 {% comment %} 
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com){:target="\_blank"}. You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.

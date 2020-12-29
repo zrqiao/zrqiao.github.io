@@ -41,15 +41,15 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 # Social integration
 # -----------------------------------------------------------------------------
 
-github_username: Utenaq # your GitHub user name
+github_username: zrqiao # your GitHub user name
 twitter_username: ZhuoranQ # your Twitter handle
-linkedin_username: # your LinkedIn user name
-scholar_userid: # your Google Scholar ID
+linkedin_username: zhuoran-qiao-269003153 # your LinkedIn user name
+scholar_userid: 6191879475193336750 # your Google Scholar ID
 orcid_id: # your ORCID ID
 medium_username: # your Medium username
 quora_username: # your Quora username
 publons_id: # your ID on Publons
-research_gate_profile: # your profile on ResearchGate
+research_gate_profile: Zhuoran_Qiao # your profile on ResearchGate
 blogger_url: # your blogger URL
 keybase_username: # your keybase user name
 
@@ -71,7 +71,7 @@ pagination:
   enabled: true
 
 # Comments
-disqus_shortname: al-folio # put your disqus shortname
+disqus_shortname: zqiao # put your disqus shortname
 
 # -----------------------------------------------------------------------------
 # Collections
