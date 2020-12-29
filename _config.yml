@@ -7,7 +7,7 @@ first_name: Zhuoran
 middle_name:
 last_name: Qiao
 email: zqiao@caltech.edu
-description: > # the ">" symbol means to ignore newlines until "footer_text:"
+description: # the ">" symbol means to ignore newlines until "footer_text:"
   A practitioner of Molecular Simulation, Statistical Physics, and Machine Learning. \#AI4Science fellow, PhD student at Miller Group, Caltech.
 footer_text: >
   Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
@@ -15,7 +15,7 @@ footer_text: >
   Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
 
 url:  # the base hostname & protocol for your site
-baseurl: /al-folio # the subpath of your site, e.g. /blog/
+baseurl: # the subpath of your site, e.g. /blog/
 last_updated: false # set to true if you want to display last updated in the footer
 
 # -----------------------------------------------------------------------------
