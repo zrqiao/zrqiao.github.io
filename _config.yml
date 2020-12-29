@@ -62,7 +62,7 @@ google_analytics: UA-XXXXXXXXX # out your google-analytics code
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: al-folio  # your blog must have a name for it to show up in the nav bar
+blog_name: Zhuoran Qiao  # your blog must have a name for it to show up in the nav bar
 blog_description: a simple whitespace theme for academics
 permalink: /blog/:year/:title/
 
@@ -156,7 +156,7 @@ enable_mansory:           true
 enable_math:              true
 enable_tooltips:          false
 enable_darkmode:          true
-show_social_icons:        false
+show_social_icons:        true
 
 # -----------------------------------------------------------------------------
 # Library versions
