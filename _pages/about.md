@@ -5,7 +5,7 @@ permalink: /
 description: A practitioner of Molecular Simulation, Statistical Physics, and Machine Learning. 
 
 profile:
-  align: right
+  align: left
   image: prof_pic.jpg
 
 news: true  # includes a list of news items
