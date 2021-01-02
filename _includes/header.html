@@ -58,7 +58,7 @@
           {% endfor %}
 	  <!-- CV -->
           <li class="nav-item {% if page.title == 'CV' %}active{% endif %}">
-	    <a class="nav-link" target="_blank" href="{{ '/assets/pdf/Zhuoran_s_CV.pdf' | prepend: site.baseurl | prepend: site.url }}">CV</a>
+	    <a class="nav-link" target="_blank" href="{{ '/assets/pdf/Zhuoran_s_CV.pdf' | relative_url }}">CV</a>
           </li>
           {% if site.enable_darkmode %}
             <div class = "toggle-container">
