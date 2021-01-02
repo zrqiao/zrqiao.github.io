@@ -4,11 +4,9 @@
 <div class="row">
   <div class="col-sm-2 abbr">
   {% if entry.abbr %}
-    {% if site.data.venues[entry.abbr] %}
-    <abbr class="badge"><a href="{{site.data.venues[entry.abbr].url}}" target="_blank">{{entry.abbr}}</a></abbr>
-    {% else %}
-    <abbr class="badge">{{entry.abbr}}</abbr>
-    {% endif %}
+    <div style="">
+        <img class="col bibone first" src="{{ site.data.pubimg[entry.abbr] | prepend: '/assets/img/pub/' | relative_url }}">
+    </div>
   {% endif %}
   </div>
 
@@ -65,6 +63,9 @@
       {% endif %}
       {% if entry.year %}
         {{entry.year}}
+      {% endif %}
+      {% if entry.note %}
+        {{entry.note}}
       {% endif %}
       </div>
     {% endif %}

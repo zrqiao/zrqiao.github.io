@@ -12,7 +12,6 @@ description: # the ">" symbol means to ignore newlines until "footer_text:"
 footer_text: >
   Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
-  Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
 
 url:  # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/
@@ -54,7 +53,7 @@ blogger_url: # your blogger URL
 keybase_username: # your keybase user name
 
 contact_note: >
-   "If you would like to virtually reach me via Zoom: https://caltech.zoom.us/j/84116684122"
+    If you would like to virtually reach me via Zoom:: https://caltech.zoom.us/j/84116684122
 
 google_analytics: UA-XXXXXXXXX # out your google-analytics code
 
@@ -62,9 +61,9 @@ google_analytics: UA-XXXXXXXXX # out your google-analytics code
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: Zhuoran Qiao  # your blog must have a name for it to show up in the nav bar
-blog_description: a simple whitespace theme for academics
-permalink: /blog/:year/:title/
+# blog_name: Zhuoran Qiao  # your blog must have a name for it to show up in the nav bar
+# blog_description: a simple whitespace theme for academics
+# permalink: /blog/:year/:title/
 
 # Pagination
 pagination:
