@@ -6,19 +6,19 @@ description:
 nav: true
 ---
 
-# Conference presentations
+## Conference presentations
 
 I gave a contributed talk on multi-task and differentiable learning for molecular electronic structure on the ML4Molecules workshop at NeurIPS 2020;
 
 * The recording should be publicly available soon on the <a href="https://ml4molecules.github.io/">Workshop website</a>
 
-# Journal clubs & seminars
+## Journal clubs & seminars
 
-An archive for my past journal presentations. Older ones will be recollected in due time.
+An archive for my past journal presentations. Older materials will be collected in due time.
 
 * 
 
-# Teaching
+## Teaching
 
 * (TA) Ch21c Spring 2019-2020, with Prof. Jack Beauchamp
 * (TA) Ch1b Winter 2019-2020, with Prof. Tom Miller
