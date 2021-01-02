@@ -18,7 +18,7 @@ I am a Ph.D. student at <a href="https://millergroup.caltech.edu/Miller_Group/Ho
 
 Before starting graduate study, I earned my BSc from Peking University in 2019. As an undergraduate student I worked in <a href="https://www.chem.pku.edu.cn/gaoyq/">Gao Group</a> at <a href="https://www.chem.pku.edu.cn/en/">PKU CCME</a>, where I studied statistical mechanics of strongly-confined soft matters. 
 
-Please feel free to contact me through <a href="zqiao@caltech.edu">email</a> if you have any questions. 
+Please feel free to contact me through <a href="mailto:zqiao@caltech.edu">email</a> if you have any questions. 
 
 {% comment %} 
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com){:target="\_blank"}. You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
