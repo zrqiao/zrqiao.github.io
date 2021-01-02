@@ -2,9 +2,9 @@
 ---
 
 <div class="row">
-  <div class="col-sm-4 abbr">
+  <div class="col-sm-3 abbr">
   {% if entry.abbr %}
-    <img class="img-fluid z-depth-1 rounded" src="{{ site.data.pubimg[entry.abbr] | prepend: '/assets/pubimg/' | relative_url }}">
+    <img class="img-fluid" src="{{ site.data.pubimg[entry.abbr] | prepend: '/assets/pubimg/' | relative_url }}">
   {% endif %}
   </div>
 
