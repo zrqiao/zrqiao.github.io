@@ -1,6 +1,6 @@
 ---
 layout: about
-title: About
+title: about
 permalink: /
 description: A practitioner of Molecular Simulation, Statistical Physics, and Machine Learning. 
 
