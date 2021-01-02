@@ -57,7 +57,9 @@
           {% endif %}
           {% endfor %}
 	  <!-- CV -->
-	  <a class="page-link" target="_blank" href="{{ '/assets/pdf/Zhuoran_s_CV.pdf' | prepend: site.baseurl | prepend: site.url }}">CV</a>
+          <li class="nav-item {% if page.title == 'CV' %}active{% endif %}">
+	    <a class="nav-link" target="_blank" href="{{ '/assets/pdf/Zhuoran_s_CV.pdf' | prepend: site.baseurl | prepend: site.url }}">CV</a>
+          </li>
           {% if site.enable_darkmode %}
             <div class = "toggle-container">
               <a id = "light-toggle">
