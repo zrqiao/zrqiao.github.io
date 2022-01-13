@@ -2,7 +2,7 @@
 layout: page
 permalink: /teaching/
 title: Talks & Teaching
-description: 
+description:
 nav: true
 ---
 
@@ -12,12 +12,12 @@ ACS Spring 2022 - Sci-Mix Session
 
 ## Past conference and seminar presentations
 
-Invited talk on quantum-chemistry-informed geometric learning as part of the <a href="https://www.cmu.edu/aced/sciML.html">Scientific Machine Learning Webinar Series</a> at CMU, Jan. 13, 2022
+* Invited talk on quantum-chemistry-informed geometric learning as part of the <a href="https://www.cmu.edu/aced/sciML.html">Scientific Machine Learning Webinar Series</a> at CMU, Jan. 13, 2022
 
-Talk at <a href="https://www.nyas.org/events/2021/ai-in-chemical-biology-new-frontiers/">AI in Chemical Biology: New Frontiers</a> webinar, Mar. 17, 2021 
+* Talk at <a href="https://www.nyas.org/events/2021/ai-in-chemical-biology-new-frontiers/">AI in Chemical Biology: New Frontiers</a> webinar, Mar. 17, 2021
 
-Contributed talk on multi-task and differentiable learning for molecular electronic structure on the ML4Molecules workshop at NeurIPS 2020, Dec. 12, 2020
-* Slides and recording  <a href="https://ml4molecules.github.io/">Workshop website</a>
+* Contributed talk on multi-task and differentiable learning for molecular electronic structure on the ML4Molecules workshop at NeurIPS 2020, Dec. 12, 2020
+  * Slides and recording at <a href="https://ml4molecules.github.io/">workshop website</a>
 
 ## Teaching
 
