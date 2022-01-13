@@ -6,17 +6,18 @@ description:
 nav: true
 ---
 
-## Conference presentations
+## Upcoming
 
-I gave a contributed talk on multi-task and differentiable learning for molecular electronic structure on the ML4Molecules workshop at NeurIPS 2020, Dec. 12;
-* Slides
-* The recording should be publicly available soon on the <a href="https://ml4molecules.github.io/">Workshop website</a>
+ACS Spring 2022 - Sci-Mix Session
 
-## Journal clubs & seminars
+## Past conference and seminar presentations
 
-An archive for my past journal presentations. Older materials will be collected in due time.
+Invited talk on quantum-chemistry-informed geometric learning as part of the <a href="https://www.cmu.edu/aced/sciML.html">Scientific Machine Learning Webinar Series</a> at CMU, Jan. 13, 2022
 
-* 
+Talk at <a href="https://www.nyas.org/events/2021/ai-in-chemical-biology-new-frontiers/">AI in Chemical Biology: New Frontiers</a> webinar, Mar. 17, 2021 
+
+Contributed talk on multi-task and differentiable learning for molecular electronic structure on the ML4Molecules workshop at NeurIPS 2020, Dec. 12, 2020
+* Slides and recording  <a href="https://ml4molecules.github.io/">Workshop website</a>
 
 ## Teaching
 
