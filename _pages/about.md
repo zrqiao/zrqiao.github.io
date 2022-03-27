@@ -14,9 +14,9 @@ social: true  # includes social icons at the bottom of the page
 
 ---
 
-I am a Ph.D. student at <a href="https://millergroup.caltech.edu/Miller_Group/Home.html">Miller Group</a>, <a href="https://cce.caltech.edu/">Caltech CCE</a>. I work on developing physics-based geometric learning approaches to tackle complex problems in chemistry and biology, especially for molecular electronic structure and dynamics.
+I am a Ph.D. student at <a href="https://cce.caltech.edu/">Caltech CCE</a> working with <a href="http://tensorlab.cms.caltech.edu/users/anima/group.html">Prof. Anima Anandkumar</a>. I collaborate closely with colleagues from the <a href="https://millergroup.caltech.edu/Miller_Group/Home.html">Miller Group</a> and <a href="https://www.entos.ai/about">Entos</a>. My research centers around developing physics-driven geometric learning approaches to tackle complex problems in chemistry and biology, especially for the study of electronic structure and dynamics out of equilibrium.
 
-Before starting graduate study, I earned my BSc from Peking University in 2019. As an undergraduate student I worked in <a href="https://www.chem.pku.edu.cn/gaoyq/">Gao Group</a> at <a href="https://www.chem.pku.edu.cn/en/">PKU CCME</a>, where I studied statistical mechanics of strongly-confined soft matters. 
+Before starting graduate study, I earned my BSc from Peking University in 2019. As an undergraduate student I worked in the <a href="https://www.chem.pku.edu.cn/gaoyq/">Gao Group</a> at <a href="https://www.chem.pku.edu.cn/en/">PKU CCME</a>, where I studied the statistical mechanics of strongly-confined soft matters. 
 
 Please feel free to contact me through <a href="mailto:zqiao@caltech.edu">email</a> if you have any questions. 
 
