@@ -6,11 +6,8 @@ description:
 nav: true
 ---
 
-## Upcoming
-
-ACS Spring 2022 - Sci-Mix Session
-
-## Past conference and seminar presentations
+## Conference and seminar presentations
+* ACS Spring 2022 - Poster and Sci-Mix Session
 
 * Invited talk on quantum-chemistry-informed geometric learning as part of the <a href="https://www.cmu.edu/aced/sciML.html">Scientific Machine Learning Webinar Series</a> at CMU, Jan. 13, 2022
 
