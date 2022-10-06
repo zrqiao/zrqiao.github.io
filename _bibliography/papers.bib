@@ -3,12 +3,36 @@
 
 @string{acs = {Americam Chemical Society,}}
 
-@article{qiao2021unite,
-  title={Unite: Unitary n-body tensor equivariant network with applications to quantum chemistry},
-  author={Qiao, Zhuoran and Christensen, Anders S and Welborn, Matthew and Manby, Frederick R and Anandkumar, Anima and Miller III, Thomas F},
-  journal={arXiv preprint arXiv:2105.14655},
-  year={2021},
-  html={https://arxiv.org/abs/2105.14655},
+@article{qiao2022dynamic,
+  title={Dynamic-Backbone Protein-Ligand Structure Prediction with Multiscale Generative Diffusion Models},
+  author={Qiao, Zhuoran and Nie, Weili and Vahdat, Arash and Miller III, Thomas F and Anandkumar, Anima},
+  journal={arXiv preprint arXiv:2209.15171},
+  html={https://web10.arxiv.org/abs/2209.15171},
+  year={2022}
+}
+
+@article{wang2022retrieval,
+  title={Retrieval-based Controllable Molecule Generation},
+  author={Wang, Zichao and Nie, Weili and Qiao, Zhuoran and Xiao, Chaowei and Baraniuk, Richard and Anandkumar, Anima},
+  journal={arXiv preprint arXiv:2208.11126},
+  html={https://arxiv.org/abs/2208.11126},
+  year={2022}
+}
+
+@article{doi:10.1073/pnas.2205221119,
+abbr={2022informing},
+author = {Zhuoran Qiao  and Anders S. Christensen  and Matthew Welborn  and Frederick R. Manby  and Anima Anandkumar  and Thomas F. Miller },
+title = {Informing geometric deep learning with electronic interactions to accelerate quantum chemistry},
+journal = {Proceedings of the National Academy of Sciences},
+volume = {119},
+number = {31},
+pages = {e2205221119},
+year = {2022},
+doi = {10.1073/pnas.2205221119},
+html = {https://www.pnas.org/doi/abs/10.1073/pnas.2205221119},
+eprint = {https://www.pnas.org/doi/pdf/10.1073/pnas.2205221119},
+abstract = {Predicting electronic energies, densities, and related chemical properties can facilitate the discovery of novel catalysts, medicines, and battery materials. However, existing machine learning techniques are challenged by the scarcity of training data when exploring unknown chemical spaces. We overcome this barrier by systematically incorporating knowledge of molecular electronic structure into deep learning. By developing a physics-inspired equivariant neural network, we introduce a method to learn molecular representations based on the electronic interactions among atomic orbitals. Our method, OrbNet-Equi, leverages efficient tight-binding simulations and learned mappings to recover high-fidelity physical quantities. OrbNet-Equi accurately models a wide spectrum of target properties while being several orders of magnitude faster than density functional theory. Despite only using training samples collected from readily available small-molecule libraries, OrbNet-Equi outperforms traditional semiempirical and machine learning–based methods on comprehensive downstream benchmarks that encompass diverse main-group chemical processes. Our method also describes interactions in challenging charge-transfer complexes and open-shell systems. We anticipate that the strategy presented here will help to expand opportunities for studies in chemistry and materials science, where the acquisition of experimental or reference training data is costly.},
+selected = {true}
 }
 
 @article{doi:10.1063/5.0061990,
@@ -36,7 +60,6 @@ eprint = {https://doi.org/10.1063/5.0061990}
 	journal = {bioRxiv}
 }
 
-
 @article{qiao2020multi,
   abbr={2020multi},
   title={Multi-task learning for electronic structure to predict and explore molecular potential energy surfaces},
@@ -45,9 +68,9 @@ eprint = {https://doi.org/10.1063/5.0061990}
   abstract={We refine the OrbNet model to accurately predict energy, forces, and other response properties for molecules using a graph neural-network architecture based on features from low-cost approximated quantum operators in the symmetry-adapted atomic orbital basis. The model is end-to-end differentiable due to the derivation of analytic gradients for all electronic structure terms, and is shown to be transferable across chemical space due to the use of domain-specific features. The learning efficiency is improved by incorporating physically motivated constraints on the electronic structure through multi-task learning. The model outperforms existing methods on energy prediction tasks for the QM9 dataset and for molecular geometry optimizations on conformer datasets, at a computational cost that is thousand-fold or more reduced compared to conventional quantum-chemistry calculations (such as density functional theory) that offer similar accuracy.},
   year={2020},
   note={(Appeared at <em>Machine Learning for Molecules workshop at NeurIPS 2020</em> as a <b>contributed talk</b>)},
-  selected={true},
   html={https://arxiv.org/abs/2011.02680}
 }
+
 
 @article{qiao2020orbnet,
   abbr={2020orbnet},
