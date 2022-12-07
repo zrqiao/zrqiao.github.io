@@ -7,6 +7,8 @@ nav: true
 ---
 
 ## Conference and seminar presentations
+* Contributed talk at NeurIPS 2022 <a     href="https://www.mlsb.io/">Machine Learning in Structural Biology Workshop</a>.
+
 * ACS Spring 2022 - Poster and Sci-Mix Session
 
 * Invited talk on quantum-chemistry-informed geometric learning as part of the <a href="https://www.cmu.edu/aced/sciML.html">Scientific Machine Learning Webinar Series</a> at CMU, Jan. 13, 2022
@@ -15,6 +17,11 @@ nav: true
 
 * Contributed talk on multi-task and differentiable learning for molecular electronic structure on the ML4Molecules workshop at NeurIPS 2020, Dec. 12, 2020
   * Slides and recording at <a href="https://ml4molecules.github.io/">workshop website</a>
+
+## Ph.D. Thesis Defense
+
+* I defended my dissertation on Nov. 22, 2022. Slides for my thesis defense can be found <a href="https://drive.google.com/file/d/1TKfUd-0yWqXRalpmcHWKfc-T8vE6G50Q/view?usp=sharing">here</a>.
+
 
 ## Teaching
 
