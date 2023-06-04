@@ -6,9 +6,9 @@ title: blank # the website title (if blank, full name will be used instead)
 first_name: Zhuoran
 middle_name:
 last_name: Qiao
-email: zqiao@caltech.edu
+email: zrqiao0@gmail.com
 description: # the ">" symbol means to ignore newlines until "footer_text:"
-  A practitioner of Molecular Simulation, Statistical Physics, and Machine Learning. \#AI4Science fellow, PhD student at Miller Group, Caltech.
+  Physics-informed AI for biochemical discovery. Lead ML scientist @EntosAI.
 footer_text: >
   Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
@@ -52,8 +52,7 @@ research_gate_profile: Zhuoran_Qiao # your profile on ResearchGate
 blogger_url: # your blogger URL
 keybase_username: # your keybase user name
 
-contact_note: >
-    If you would like to virtually reach me via Zoom - https://caltech.zoom.us/j/84116684122
+contact_note: 
 
 google_analytics: UA-XXXXXXXXX # out your google-analytics code
 
