@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-description: A practitioner of Molecular Simulation, Statistical Physics, and Machine Learning. 
+description: Physics-Informed AI for Biochemical Discovery. 
 
 profile:
   align: left
@@ -14,7 +14,7 @@ social: true  # includes social icons at the bottom of the page
 
 ---
 
-I am a Ph.D. student at <a href="https://cce.caltech.edu/">Caltech CCE</a> working with <a href="http://tensorlab.cms.caltech.edu/users/anima/group.html">Prof. Anima Anandkumar</a>. I collaborate closely with colleagues from the <a href="https://millergroup.caltech.edu/Miller_Group/Home.html">Miller Group</a> and <a href="https://www.entos.ai/about">Entos</a>. My research centers around developing physics-driven geometric learning approaches to tackle complex problems in chemistry and biology, especially for the study of electronic structure and dynamics out of equilibrium.
+I am a Lead Machine Learning Scientist at <a href="https://www.entos.ai/about">Entos, Inc</a>. I earned my Ph.D. degree in chemistry from <a href="https://cce.caltech.edu/">Caltech CCE</a> (<a href="https://thesis.library.caltech.edu/15077">Thesis</a>), where I was fortunately advised by <a href="http://tensorlab.cms.caltech.edu/users/anima/group.html">Prof. Anima Anandkumar</a> and <a href="https://millergroup.caltech.edu/Miller_Group/Home.html">Prof. Thomas Miller</a>.  My research centers around developing physics-driven geometric learning approaches to tackle complex problems in chemistry and chemical biology, especially for the study of electronic structure and dynamics out of equilibrium.
 
 I earned my BSc from Peking University in 2019. As an undergraduate student I worked in the <a href="https://www.chem.pku.edu.cn/gaoyq/">Gao Group</a> at <a href="https://www.chem.pku.edu.cn/en/">PKU CCME</a>, where I studied the statistical mechanics of confined soft matters. 
 

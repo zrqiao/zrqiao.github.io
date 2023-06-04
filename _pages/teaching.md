@@ -7,11 +7,16 @@ nav: true
 ---
 
 ## Conference and seminar presentations
-* Contributed talk at NeurIPS 2022 <a     href="https://www.mlsb.io/">Machine Learning in Structural Biology Workshop</a>.
+
+* Invited talk on <a href="https://arxiv.org/abs/2209.15171">NeuralPLexer</a> at <a href="https://www.nvidia.com/en-us/clara/drug-discovery/">NVIDIA Clara Discovery</a> Show & Tell, Apr. 5, 2023
+
+* Invited talk on our <a href="https://arxiv.org/abs/2209.15171">NeuralPLexer</a> work as part of the <a href="https://datasig.ac.uk/event/zhuoran-qiao-2023-03-08">Rough Path Interest Group</a> at the Alan Turing Institute, Mar. 8, 2023
+
+* Contributed talk at NeurIPS 2022 <a href="https://www.mlsb.io/">Machine Learning in Structural Biology Workshop</a>.
 
 * ACS Spring 2022 - Poster and Sci-Mix Session
 
-* Invited talk on quantum-chemistry-informed geometric learning as part of the <a href="https://www.cmu.edu/aced/sciML.html">Scientific Machine Learning Webinar Series</a> at CMU, Jan. 13, 2022
+* Invited talk on quantum-chemistry-informed geometric learning as part of the <a href="https://www.cmu.edu/aced/sciML.html">Scientific Machine Learning Webinar Series</a> at Carnegie Mellon University, Jan. 13, 2022
 
 * Talk at <a href="https://www.nyas.org/events/2021/ai-in-chemical-biology-new-frontiers/">AI in Chemical Biology: New Frontiers</a> webinar, Mar. 17, 2021
 
