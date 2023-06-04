@@ -10,6 +10,8 @@ nav: true
 
 * Invited talk on <a href="https://arxiv.org/abs/2209.15171">NeuralPLexer</a> at <a href="https://www.nvidia.com/en-us/clara/drug-discovery/">NVIDIA Clara Discovery</a> Show & Tell, Apr. 5, 2023
 
+* Invited talk at the <a href="https://www.ml4proteinengineering.com/">ML for Protein Engineering Seminar</a>, Mar. 21, 2023 (<a href="https://youtu.be/73blwIx9QUg">Presentation recording</a>)
+
 * Invited talk on our <a href="https://arxiv.org/abs/2209.15171">NeuralPLexer</a> work as part of the <a href="https://datasig.ac.uk/event/zhuoran-qiao-2023-03-08">Rough Path Interest Group</a> at the Alan Turing Institute, Mar. 8, 2023
 
 * Contributed talk at NeurIPS 2022 <a href="https://www.mlsb.io/">Machine Learning in Structural Biology Workshop</a>.
