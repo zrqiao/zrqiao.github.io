@@ -14,6 +14,8 @@ nav: true
 
 * Invited talk on our <a href="https://arxiv.org/abs/2209.15171">NeuralPLexer</a> work as part of the <a href="https://datasig.ac.uk/event/zhuoran-qiao-2023-03-08">Rough Path Interest Group</a> at the Alan Turing Institute, Mar. 8, 2023
 
+* Invited presentation at PKU CCME, Dec. 9, 2022.
+
 * Contributed talk at NeurIPS 2022 <a href="https://www.mlsb.io/">Machine Learning in Structural Biology Workshop</a>.
 
 * ACS Spring 2022 - Poster and Sci-Mix Session
