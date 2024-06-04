@@ -9,5 +9,5 @@ group :jekyll_plugins do
     gem 'jekyll-twitter-plugin'
     gem 'jemoji'
     gem 'unicode_utils'
-    gem 'faraday', '~> 2.7', '>= 2.7.11'
+    gem 'nokogiri'
 end
