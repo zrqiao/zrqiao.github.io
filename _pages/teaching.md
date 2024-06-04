@@ -8,6 +8,12 @@ nav: true
 
 ## Conference and seminar presentations
 
+* (Upcoming) Invited talk Quantitative Biology 2024: Biomedical Data and AI, Peking University, July 15-17th, 2024.
+
+* Invited talk at Drug Discovery Nexus, San Diego, May 9th 2024
+
+* Invited talk at Microsoft Research AI4Science, Wednesday May 8th 2024
+
 * Invited talk on <a href="https://arxiv.org/abs/2209.15171">NeuralPLexer</a> at <a href="https://www.nvidia.com/en-us/clara/drug-discovery/">NVIDIA Clara Discovery</a> Show & Tell, Apr. 5, 2023
 
 * Invited talk at the <a href="https://www.ml4proteinengineering.com/">ML for Protein Engineering Seminar</a>, Mar. 21, 2023 (<a href="https://youtu.be/73blwIx9QUg">Presentation recording</a>)
